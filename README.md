@@ -1,6 +1,6 @@
 # vue-project-manage
 
-> no des 123345
+> no des
 
 ## Build Setup
 
